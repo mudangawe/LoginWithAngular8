@@ -1,0 +1,16 @@
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.csprojAssemblyReference.cache
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorAssemblyInfo.cache
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorAssemblyInfo.cs
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.AssemblyInfoInputs.cache
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.AssemblyInfo.cs
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.deps.json
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.runtimeconfig.json
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.runtimeconfig.dev.json
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.dll
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.pdb
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorTargetAssemblyInfo.cache
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.dll
+C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.pdb
