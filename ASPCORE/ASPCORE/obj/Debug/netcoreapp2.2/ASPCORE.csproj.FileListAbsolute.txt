@@ -14,3 +14,19 @@ C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.p
 C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorTargetAssemblyInfo.cache
 C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.dll
 C:\Users\v-girama\source\repos\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.pdb
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.deps.json
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.runtimeconfig.json
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.runtimeconfig.dev.json
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.dll
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\bin\Debug\netcoreapp2.2\ASPCORE.pdb
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.csprojAssemblyReference.cache
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorAssemblyInfo.cache
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorAssemblyInfo.cs
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.AssemblyInfoInputs.cache
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.AssemblyInfo.cs
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.RazorTargetAssemblyInfo.cache
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.dll
+C:\Source\Angular Project\LoginAndRegisterWithAngular8\ASPCORE\ASPCORE\obj\Debug\netcoreapp2.2\ASPCORE.pdb

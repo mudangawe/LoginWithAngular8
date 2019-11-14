@@ -1,4 +1,4 @@
-<h3>Sign-up form</h3>
+<h3 class="heading">Sign-up form</h3>
 
 <form [formGroup]='registerForm' (ngSubmit)='onSubmit()'>
 
@@ -23,5 +23,9 @@
         <input class="form-control" placeholder="Enter Password" type="password" formControlName="password">
     </div>
     <button type="submit" [disabled]="!registerForm.valid" >Register</button>
-
+    <div class="loadSignIn">
+            <p>Already have an account, press 
+             <a routerLink="/" >Here</a> 
+             to register </p>
+    </div>
 </form>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-girama\\source\\repos\\ASPCORE\\ASPCORE\\ASPCORE.csproj": {}
+    "C:\\Source\\Angular Project\\LoginAndRegisterWithAngular8\\ASPCORE\\ASPCORE\\ASPCORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-girama\\source\\repos\\ASPCORE\\ASPCORE\\ASPCORE.csproj": {
+    "C:\\Source\\Angular Project\\LoginAndRegisterWithAngular8\\ASPCORE\\ASPCORE\\ASPCORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-girama\\source\\repos\\ASPCORE\\ASPCORE\\ASPCORE.csproj",
+        "projectUniqueName": "C:\\Source\\Angular Project\\LoginAndRegisterWithAngular8\\ASPCORE\\ASPCORE\\ASPCORE.csproj",
         "projectName": "ASPCORE",
-        "projectPath": "C:\\Users\\v-girama\\source\\repos\\ASPCORE\\ASPCORE\\ASPCORE.csproj",
+        "projectPath": "C:\\Source\\Angular Project\\LoginAndRegisterWithAngular8\\ASPCORE\\ASPCORE\\ASPCORE.csproj",
         "packagesPath": "C:\\Users\\v-girama\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-girama\\source\\repos\\ASPCORE\\ASPCORE\\obj\\",
+        "outputPath": "C:\\Source\\Angular Project\\LoginAndRegisterWithAngular8\\ASPCORE\\ASPCORE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
