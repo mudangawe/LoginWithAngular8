@@ -1,5 +1,6 @@
 export interface Imodel{
     email:boolean;
-    password:boolean
+    password:boolean;
+    userAdded:boolean
 
 }

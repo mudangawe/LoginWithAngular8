@@ -1,16 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 import {FormGroup,FormControl,Validators} from '@angular/forms'
 import {ServiceService} from '../service/service.service'
+import { Imodel } from '../interface/Imodel';
+import {Router} from "@angular/router"
 @Component({
   selector: 'app-register',
   templateUrl: './register.component.html',
   styleUrls: ['./register.component.css']
 })
 export class RegisterComponent implements OnInit {
-  feedback:{
-    email:boolean,
-    password:boolean
-  };
+  feedback:Imodel
   registerForm:FormGroup;
   userForm= {
     name: " ",
@@ -19,7 +18,7 @@ export class RegisterComponent implements OnInit {
     password: ' ',
     number: ' '
   }
-  constructor(private http:ServiceService) { 
+  constructor(private http:ServiceService, private router:Router) { 
     this.createForm();
   }
 
@@ -38,7 +37,14 @@ export class RegisterComponent implements OnInit {
 
   onSubmit(){
     console.log(this.registerForm.value)
-    this.http.postData(this.registerForm.value).subscribe(x => {this.feedback  = x});
+    this.http.postData(this.registerForm.value).subscribe(x => {this.feedback  = x ; this.grantRespond});
+  }
+  grantRespond()
+  {
+      if(this.feedback.userAdded)
+      {
+        this.router.navigate(['/home'])
+      }
   }
 
 }
