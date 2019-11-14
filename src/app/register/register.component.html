@@ -1,0 +1,27 @@
+<h3>Sign-up form</h3>
+
+<form [formGroup]='registerForm' (ngSubmit)='onSubmit()'>
+
+    <div class="form-group">
+        <label>Name: </label>
+        <input class="form-control" placeholder="Enter name" formControlName="name">
+    </div>
+    <div class="form-group">
+        <label>Surname: </label>
+        <input class="form-control" placeholder="Enter surname" formControlName="surname">
+    </div>
+    <div class="form-group">
+        <label>Email: </label>
+        <input class="form-control" placeholder="Enter email" formControlName="email">
+    </div>
+    <div class="form-group">
+        <label>Number: </label>
+        <input class="form-control" placeholder="Enter number" formControlName="number">
+    </div>
+    <div class="form-group">
+        <label>Password: </label>
+        <input class="form-control" placeholder="Enter Password" type="password" formControlName="password">
+    </div>
+    <button type="submit" [disabled]="!registerForm.valid" >Register</button>
+
+</form>
